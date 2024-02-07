@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayankyameto
+- 👋 Hi, I’m @mayank
 - 👀 I’m interested in ... Web Development, AI and Machine Learning.
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... a working Project
